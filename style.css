@@ -1,0 +1,23 @@
+
+.bg-pink
+{
+  background-color: #210439;
+}
+.bg-blue
+{
+  background-color: #9376A;
+}
+.bg-blue2
+{
+  background-color: #0E0218;
+}
+.icon-size {
+    transform:scale(2.2,2.2);
+   
+}
+.btn-margin{
+  margin:10px;
+}
+.text-color{
+  color: @ffffff;
+}
